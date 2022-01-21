@@ -256,8 +256,6 @@ DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,phprcdn.com
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,pornhubpremium.com
-# > 91Porn
-DOMAIN-SUFFIX,91porn.com
 # > 台湾好
 USER-AGENT,TaiwanGood*
 DOMAIN-SUFFIX,skyking.com.tw
