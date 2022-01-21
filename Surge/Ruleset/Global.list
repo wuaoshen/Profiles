@@ -172,6 +172,8 @@ DOMAIN-SUFFIX,wikiquote.org
 DOMAIN-SUFFIX,yadi.sk
 DOMAIN,disk.yandex.com
 # > Others
+DOMAIN-SUFFIX,9to5google.com
+DOMAIN-SUFFIX,9to5mac.com
 DOMAIN-SUFFIX,mojim.com
 DOMAIN-SUFFIX,tenor.co
 DOMAIN-SUFFIX,chinadigitaltimes.net
