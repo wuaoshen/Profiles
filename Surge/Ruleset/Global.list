@@ -61,6 +61,7 @@ DOMAIN-SUFFIX,bibox.com
 DOMAIN-SUFFIX,biggo.com.tw
 DOMAIN-SUFFIX,binance.cc
 DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.me
 DOMAIN-SUFFIX,binance.us
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bit.ly
@@ -209,7 +210,6 @@ DOMAIN-SUFFIX,globalvoices.org
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,gofundme.com
 DOMAIN-SUFFIX,golang.org
-DOMAIN-SUFFIX,goo.ne.jp
 DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,goog
 DOMAIN-SUFFIX,gov.tw
