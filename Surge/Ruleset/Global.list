@@ -205,6 +205,7 @@ DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,githack.com
 DOMAIN-SUFFIX,github.blog
 DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,globalvoices.org
 DOMAIN-SUFFIX,gmail.com
@@ -249,6 +250,7 @@ DOMAIN-SUFFIX,is.gd
 DOMAIN-SUFFIX,issuu.com
 DOMAIN-SUFFIX,istockphoto.com
 DOMAIN-SUFFIX,itasoftware.com
+DOMAIN-SUFFIX,jable.tv
 DOMAIN-SUFFIX,japantimes.co.jp
 DOMAIN-SUFFIX,jiji.com
 DOMAIN-SUFFIX,jkforum.net
@@ -322,6 +324,7 @@ DOMAIN-SUFFIX,nii.ac.jp
 DOMAIN-SUFFIX,nikkei.com
 DOMAIN-SUFFIX,nitter.net
 DOMAIN-SUFFIX,nofile.io
+DOMAIN-SUFFIX,nofan.xyz
 DOMAIN-SUFFIX,now.com
 DOMAIN-SUFFIX,noxinfluencer.com
 DOMAIN-SUFFIX,nrk.no
@@ -453,8 +456,11 @@ DOMAIN-SUFFIX,teco-mo.org
 DOMAIN-SUFFIX,teddysun.com
 DOMAIN-SUFFIX,telephony.goog
 DOMAIN-SUFFIX,tenor.co
+DOMAIN-SUFFIX,tenor.com
 DOMAIN-SUFFIX,tensorflow.org
 DOMAIN-SUFFIX,terabox.com
+DOMAIN-SUFFIX,zaobao.com.sg
+DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN-SUFFIX,textnow.me
 DOMAIN-SUFFIX,tfhub.dev
 DOMAIN-SUFFIX,theage.com.au
