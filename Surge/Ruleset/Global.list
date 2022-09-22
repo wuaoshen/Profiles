@@ -581,7 +581,7 @@ DOMAIN-SUFFIX,zeronet.io
 DOMAIN-SUFFIX,zophar.net
 DOMAIN-SUFFIX,zynamics.com
 DOMAIN-SUFFIX,zyxel.com
-DOMAIN,amp-api.podcasts.apple.com
+# DOMAIN,amp-api.podcasts.apple.com
 DOMAIN,apple.comscoreresearch.com
 DOMAIN,apps.apple.com
 DOMAIN,assets1.xboxlive.com
