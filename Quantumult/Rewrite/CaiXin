@@ -1,0 +1,5 @@
+hostname = gateway.caixin.com, ipadcms.caixin.com, 
+
+#>>>>>>>>>>>>>>>>新闻类VIP
+# ✅ 财新周刊
+http://ipadcms.caixin.com/tmp/articles/* url script-response-body https://github.com/ddgksf2013/dev/raw/main/CaiXinZhouKanProCrack.js
