@@ -1,7 +1,6 @@
 DOMAIN-KEYWORD,.blogspot.
 DOMAIN-KEYWORD,.facebook.
 DOMAIN-KEYWORD,.pinterest.
-DOMAIN-KEYWORD,discord
 DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,91porn.com
@@ -147,6 +146,8 @@ DOMAIN-SUFFIX,deviantart.net
 DOMAIN-SUFFIX,dialogflow.com
 DOMAIN-SUFFIX,disconnect.me
 DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.media
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discordapp.net
 DOMAIN-SUFFIX,disqus.com
