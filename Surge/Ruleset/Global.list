@@ -1,3 +1,4 @@
+DOMAIN-KEYWORD,.1lib.
 DOMAIN-KEYWORD,.blogspot.
 DOMAIN-KEYWORD,.facebook.
 DOMAIN-KEYWORD,.pinterest.
@@ -14,8 +15,8 @@ DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,abebooks.com
 DOMAIN-SUFFIX,aboutkidshealth.ca
 DOMAIN-SUFFIX,accountkit.com
-DOMAIN-SUFFIX,admob.com
 DOMAIN-SUFFIX,adguard.com
+DOMAIN-SUFFIX,admob.com
 DOMAIN-SUFFIX,adsense.com
 DOMAIN-SUFFIX,adtidy.org
 DOMAIN-SUFFIX,advertisercommunity.com
@@ -24,6 +25,7 @@ DOMAIN-SUFFIX,ahhhhfs.com
 DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,aimoon.com
 DOMAIN-SUFFIX,amazon.co.jp
+DOMAIN-SUFFIX,america.gov
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,anchor.fm
 DOMAIN-SUFFIX,android.com
@@ -42,6 +44,7 @@ DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,aptoide.com
+DOMAIN-SUFFIX,archive-it.org
 DOMAIN-SUFFIX,archive.fo
 DOMAIN-SUFFIX,archive.is
 DOMAIN-SUFFIX,archive.org
@@ -90,6 +93,7 @@ DOMAIN-SUFFIX,boom.bg
 DOMAIN-SUFFIX,boslife.net
 DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,bullguard.com
+DOMAIN-SUFFIX,bumingbai.net
 DOMAIN-SUFFIX,businessinsider.com
 DOMAIN-SUFFIX,buzzfeed.com
 DOMAIN-SUFFIX,buzzsprout.com
@@ -101,8 +105,8 @@ DOMAIN-SUFFIX,castbox.fm
 DOMAIN-SUFFIX,cbc.ca
 DOMAIN-SUFFIX,cccat.io
 DOMAIN-SUFFIX,cdn.concert.io
-DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,cdn.sstatic.net
+DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,cdw.com
 DOMAIN-SUFFIX,certificate-transparency.org
 DOMAIN-SUFFIX,change.org
@@ -225,8 +229,8 @@ DOMAIN-SUFFIX,globalvoices.org
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,gofundme.com
 DOMAIN-SUFFIX,golang.org
-DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,goo.gl
+DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,gov.tw
 DOMAIN-SUFFIX,gr-assets.com
 DOMAIN-SUFFIX,graphql.org
@@ -275,8 +279,8 @@ DOMAIN-SUFFIX,justmysocks.net
 DOMAIN-SUFFIX,justpaste.it
 DOMAIN-SUFFIX,kadokawa.co.jp
 DOMAIN-SUFFIX,kakao.com
-DOMAIN-SUFFIX,kindle4rss.com
 DOMAIN-SUFFIX,kik.com
+DOMAIN-SUFFIX,kindle4rss.com
 DOMAIN-SUFFIX,kingkong.com.tw
 DOMAIN-SUFFIX,knowyourmeme.com
 DOMAIN-SUFFIX,kobo.com
@@ -399,8 +403,8 @@ DOMAIN-SUFFIX,potato.im
 DOMAIN-SUFFIX,potatso.com
 DOMAIN-SUFFIX,prism-break.org
 DOMAIN-SUFFIX,privoxy.org
-DOMAIN-SUFFIX,proxifier.com
 DOMAIN-SUFFIX,pronetworklink.com
+DOMAIN-SUFFIX,proxifier.com
 DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,pt.im
 DOMAIN-SUFFIX,pts.org.tw
@@ -480,8 +484,6 @@ DOMAIN-SUFFIX,tenor.co
 DOMAIN-SUFFIX,tenor.com
 DOMAIN-SUFFIX,tensorflow.org
 DOMAIN-SUFFIX,terabox.com
-DOMAIN-SUFFIX,zaobao.com.sg
-DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN-SUFFIX,textnow.me
 DOMAIN-SUFFIX,tfhub.dev
 DOMAIN-SUFFIX,theage.com.au
@@ -581,12 +583,15 @@ DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,z-lib.org
+DOMAIN-SUFFIX,zaobao.com.sg
 DOMAIN-SUFFIX,zb.com
 DOMAIN-SUFFIX,zello.com
 DOMAIN-SUFFIX,zeronet.io
 DOMAIN-SUFFIX,zophar.net
 DOMAIN-SUFFIX,zynamics.com
 DOMAIN-SUFFIX,zyxel.com
+DOMAIN-SUFFIX.t.me
+DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,amp-api.podcasts.apple.com
 DOMAIN,apple.comscoreresearch.com
 DOMAIN,apps.apple.com
