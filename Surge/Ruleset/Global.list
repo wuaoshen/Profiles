@@ -57,6 +57,7 @@ DOMAIN-SUFFIX,ask.com
 DOMAIN-SUFFIX,avg.com
 DOMAIN-SUFFIX,avgle.com
 DOMAIN-SUFFIX,axios.com
+DOMAIN-SUFFIX,bad.news
 DOMAIN-SUFFIX,badoo.com
 DOMAIN-SUFFIX,bandcamp.com
 DOMAIN-SUFFIX,bandwagonhost.com
@@ -232,6 +233,7 @@ DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,gofundme.com
 DOMAIN-SUFFIX,golang.org
 DOMAIN-SUFFIX,goo.gl
+DOMAIN-SUFFIX,good.news
 DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,gov.tw
 DOMAIN-SUFFIX,gr-assets.com
@@ -303,6 +305,7 @@ DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,liquid.com
 DOMAIN-SUFFIX,listennotes.com
+DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,livestream.com
 DOMAIN-SUFFIX,logimg.jp
 DOMAIN-SUFFIX,logmein.com
@@ -375,7 +378,6 @@ DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,omny.fm
 DOMAIN-SUFFIX,on.cc
 DOMAIN-SUFFIX,on2.com
-DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openvpn.net
 DOMAIN-SUFFIX,orientaldaily.com.my
