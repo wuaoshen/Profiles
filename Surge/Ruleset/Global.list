@@ -17,11 +17,13 @@ DOMAIN-SUFFIX,aboutkidshealth.ca
 DOMAIN-SUFFIX,accountkit.com
 DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,admob.com
+DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adsense.com
 DOMAIN-SUFFIX,adtidy.org
 DOMAIN-SUFFIX,advertisercommunity.com
 DOMAIN-SUFFIX,aex.com
 DOMAIN-SUFFIX,ahhhhfs.com
+DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,aimoon.com
 DOMAIN-SUFFIX,amazon.co.jp
@@ -94,6 +96,7 @@ DOMAIN-SUFFIX,books.com.tw
 DOMAIN-SUFFIX,boom.bg
 DOMAIN-SUFFIX,boslife.net
 DOMAIN-SUFFIX,brave.com
+DOMAIN-SUFFIX,broadinstitute.org
 DOMAIN-SUFFIX,bullguard.com
 DOMAIN-SUFFIX,bumingbai.net
 DOMAIN-SUFFIX,businessinsider.com
@@ -103,6 +106,7 @@ DOMAIN-SUFFIX,bwh1.net
 DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,c-span.org
 DOMAIN-SUFFIX,capitalg.com
+DOMAIN-SUFFIX,careerengine.us
 DOMAIN-SUFFIX,castbox.fm
 DOMAIN-SUFFIX,cbc.ca
 DOMAIN-SUFFIX,cccat.io
@@ -204,6 +208,7 @@ DOMAIN-SUFFIX,firech.at
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,flipboard.com
 DOMAIN-SUFFIX,flitto.com
+DOMAIN-SUFFIX,forefront.ai
 DOMAIN-SUFFIX,foreignaffairs.com
 DOMAIN-SUFFIX,foreignpolicy.com
 DOMAIN-SUFFIX,freetls.fastly.net
@@ -228,6 +233,7 @@ DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,gitlab.io
 DOMAIN-SUFFIX,globalvoices.org
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,gofundme.com
@@ -262,6 +268,7 @@ DOMAIN-SUFFIX,icij.org
 DOMAIN-SUFFIX,icoco.com
 DOMAIN-SUFFIX,ifixit.com
 DOMAIN-SUFFIX,ift.tt
+DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,independent.co.uk
 DOMAIN-SUFFIX,initiummall.com
@@ -353,6 +360,7 @@ DOMAIN-SUFFIX,newyorktimes.com
 DOMAIN-SUFFIX,nexitally.com
 DOMAIN-SUFFIX,nhk.or.jp
 DOMAIN-SUFFIX,nii.ac.jp
+DOMAIN-SUFFIX,nike.com
 DOMAIN-SUFFIX,nikkei.com
 DOMAIN-SUFFIX,nitter.net
 DOMAIN-SUFFIX,nofile.io
@@ -594,6 +602,7 @@ DOMAIN-SUFFIX,zaobao.com.sg
 DOMAIN-SUFFIX,zb.com
 DOMAIN-SUFFIX,zello.com
 DOMAIN-SUFFIX,zeronet.io
+DOMAIN-SUFFIX,zlibcdn.com
 DOMAIN-SUFFIX,zophar.net
 DOMAIN-SUFFIX,zynamics.com
 DOMAIN-SUFFIX,zyxel.com
