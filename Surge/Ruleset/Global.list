@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,ahhhhfs.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,aimoon.com
+DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,america.gov
 DOMAIN-SUFFIX,ampproject.org
@@ -515,6 +516,11 @@ DOMAIN-SUFFIX,stackoverflow.com
 DOMAIN-SUFFIX,startpage.com
 DOMAIN-SUFFIX,static-economist.com
 DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamgames.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,steemit.com
 DOMAIN-SUFFIX,straitstimes.com
 DOMAIN-SUFFIX,streamable.com
