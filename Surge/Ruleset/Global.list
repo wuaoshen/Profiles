@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,aex.com
 DOMAIN-SUFFIX,ahhhhfs.com
 DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,aimoon.com
+DOMAIN-SUFFIX,airbnb.com
 DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,america.gov
@@ -342,6 +343,7 @@ DOMAIN-SUFFIX,mas.to
 DOMAIN-SUFFIX,mastodon.social
 DOMAIN-SUFFIX,matrix.org
 DOMAIN-SUFFIX,matters.news
+DOMAIN-SUFFIX,matters.town
 DOMAIN-SUFFIX,maying.co
 DOMAIN-SUFFIX,mediawiki.org
 DOMAIN-SUFFIX,medibang.com
@@ -480,6 +482,7 @@ DOMAIN-SUFFIX,roadshow.hk
 DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,rsshub.app
 DOMAIN-SUFFIX,rthk.hk
+DOMAIN-SUFFIX,samsung.com
 DOMAIN-SUFFIX,schema.org
 DOMAIN-SUFFIX,scmp.com
 DOMAIN-SUFFIX,scribd.com
@@ -624,7 +627,7 @@ DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,worldcat.org
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,wsj.net
-DOMAIN-SUFFIX,x.co
+DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,xbookcn.net
 DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,xnxx.com
