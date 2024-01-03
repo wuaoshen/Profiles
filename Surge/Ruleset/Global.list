@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,apkmonk.com
 DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,apple.news
+DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,apptentive.com
@@ -597,6 +598,7 @@ DOMAIN-SUFFIX,wapo.st
 DOMAIN-SUFFIX,washingtonpost.com
 DOMAIN-SUFFIX,wattpad.com
 DOMAIN-SUFFIX,waymo.com
+DOMAIN-SUFFIX,weather.com
 DOMAIN-SUFFIX,web.dev
 DOMAIN-SUFFIX,webmproject.org
 DOMAIN-SUFFIX,webrtc.org
